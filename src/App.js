@@ -12,7 +12,7 @@ const DUMMY_DATA = [
   { id:2,title: "Mobile Recharge", date: new Date(2023, 2, 16), amount: 389 },
   {
     id:3,
-    title: "Internet connection recharge",
+    title: "Foods",
     date: new Date(2023, 1, 26),
     amount: 850,
   },
