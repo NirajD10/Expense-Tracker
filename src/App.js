@@ -18,7 +18,7 @@ const DUMMY_DATA = [
   },
   {
   id:4,
-  title: "Home rental"
+  title: "Home rental",
   date: new Date(2023, 1, 24),
   amount: 10000
   },
