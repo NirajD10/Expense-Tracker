@@ -16,6 +16,12 @@ const DUMMY_DATA = [
     date: new Date(2023, 1, 26),
     amount: 850,
   },
+  {
+  id:4,
+  title: "Home rental"
+  date: new Date(2023, 1, 24),
+  amount: 10000
+  },
 ];
 
 const App = () => {
